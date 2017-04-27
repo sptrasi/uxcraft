@@ -1,1 +1,1 @@
-# uxcraft.github.io
+# uxcraft
